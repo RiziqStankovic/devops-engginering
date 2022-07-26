@@ -23,6 +23,7 @@ Konfigurasi IP server dari IP lama ke IP baru, kemudian melakukan instalasi web 
 ### =>[2] command atau perintah adalah sebuah bahasa untuk berinteraksi dengan sistem operasi agar bisa melaksanakan tugasnya dengan spesifik.
 berikut beberapa daftar perintah dasar :
 
+
 1. pwd 
 
 Ketika Anda ingin membuat, melihat, atau menghapus files, Anda tentunya perlu memastikan terlebih dahulu kalau Anda sudah berada di direktori yang tepat bukan?

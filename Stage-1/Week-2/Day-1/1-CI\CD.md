@@ -98,10 +98,3 @@ ctrl + W
 # dah kan, tau lah perubahnya liat tuh di jendela halamanya yg lama ama yg baru ini pasti kliatan lah klo enggak kliatan kek nya ada yg salah deh di pngliaatnyaa, klo kurang jelas monggo  cek di hp tulis sndiri link nya biar matanya nambah jelas. dah ah oke kesimpulnya gitu ajh sh simpel kok tiinggal edit push github deploy edit lgi sdikit trus monitor udh kelar .
 
 # oke Terimakasih smuanyaa dah meluangkan waktunya utk membaca arc ini andddddd Sankyuuuu  
-
-
-
-
-
-
-
